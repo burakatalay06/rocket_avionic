@@ -306,7 +306,7 @@ Thread(target=valves_roll).start()
 Thread(target=valves_yaw).start()
 Thread(target=ms5611).start()
 
-//I know this is not literaly Multithread but something is simple and works great you can use it :D
+#I know this is not literaly Multithread but something is simple and works great you can use it :D
 end=time.time()
 
 print("süre",end-start)
