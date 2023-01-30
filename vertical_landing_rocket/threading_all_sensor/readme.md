@@ -1,9 +1,11 @@
 Avionic System Photos
 
-Sensors:
 -MS5611
+
 -MPU9250
+
 -BNO055
+
 
 *Raspberry Pi4
 
