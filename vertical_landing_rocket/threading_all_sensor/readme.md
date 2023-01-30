@@ -1,5 +1,3 @@
-Avionic System Photos
-
 -MS5611
 
 -MPU9250
