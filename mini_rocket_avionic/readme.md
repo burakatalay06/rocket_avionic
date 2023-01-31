@@ -9,7 +9,7 @@
 **At this project, out main goal is beginner model rocketeer.
 This board can develope like arduino nano. PCB include CH340G so plug the programming cable and just develope your avionic.
 Also mini rocket avionic boards provide 2 deployment.
-depends to the situation deployment outs can be increas with using (github.com/burakatalay06/rocket_avionic/tree/main/deployment_pcb)
+depends to the situation deployment outs can be increas with using ( github.com/burakatalay06/rocket_avionic/tree/main/deployment_pcb )
 
 ![1](https://user-images.githubusercontent.com/63429097/215721457-4cbf6c9d-6202-45d5-9553-1231a1a5d058.PNG)
 
