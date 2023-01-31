@@ -1,4 +1,3 @@
-//--------ALYA HAVACILIK VE UZAY-------//
 #include <DFRobot_BMP280.h>
 #include <Wire.h>
 #include <KalmanFilter.h>
@@ -24,7 +23,7 @@ int Dep_1 = 10;
 int Dep_2 = 11;
 
 static const int RXPin = 6, TXPin = 5;
-SoftwareSerial ss(RXPin, TXPin); //gps pinleri
+SoftwareSerial ss(RXPin, TXPin);
 
 String paket = "";
 
@@ -258,7 +257,7 @@ void loop() {
   String ayrilma_1 = String(!dep_2_state ? "-" : "+");
   
   delay(10);
-/*
+
   paket = paket + String(hour_val);
   paket = paket + ":";
   paket = paket + String(minute_val);
@@ -271,14 +270,12 @@ void loop() {
   paket = paket + ",";
   paket = paket + String(alt);
   paket = paket + ",";
-  */
   paket = paket + String(g.gyro.x);
   paket = paket + ",";
   paket = paket + String(g.gyro.y);
   paket = paket + ",";
   paket = paket + String(g.gyro.z);
   paket = paket + ",";
-/*
   paket = paket + String(lat_val, 6);
   paket = paket + ",";
   paket = paket + String(lng_val, 6);
@@ -286,7 +283,6 @@ void loop() {
   paket = paket + String(sat_val);
   paket = paket + ",";
   paket = paket + String(temp);
-  */
  paket = paket + "\n";
   
 
