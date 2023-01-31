@@ -1,4 +1,6 @@
-Avionic System Photos
+# Flight Computer
+
+https://www.soundingrocket.org/what-is-irec.html
 
 -MPU6050
 
