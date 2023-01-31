@@ -1,4 +1,4 @@
-Thanks to Rocket tracker app we can find our rocket part which has a avionic system.
+ Using to Rocket tracker app we can find our rocket part which has a avionic system.
  For more detail visit https://github.com/burakatalay06/Rocket_part_tracker_app
 
 ![photo_2023-01-30_17-21-22](https://user-images.githubusercontent.com/63429097/215503896-6f34b650-22f2-468c-a62f-2fd266b589a3.jpg)
