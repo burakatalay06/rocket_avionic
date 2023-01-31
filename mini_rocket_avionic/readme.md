@@ -1,3 +1,5 @@
+# Mini Rocket Flight Computer
+
 -EEPROM
 
 -MPU6050
