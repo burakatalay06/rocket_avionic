@@ -1,5 +1,5 @@
 At this project, GNSS module is providing to connect to satellites so fast (10 - 30 sec) with high accuracy.
-Also USB-TTL can be connect on the tracker board pins in this way LoRa frequency can be change as you want. 
+Also USB-TTL can be connect on the tracker board pins in this way LoRa frequency can be change as you wish. 
 
 -E22-900T22S
 
