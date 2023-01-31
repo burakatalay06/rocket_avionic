@@ -1,4 +1,4 @@
-# Mini Rocket Flight Computer
+# Mini Flight Computer
 
 -EEPROM
 
