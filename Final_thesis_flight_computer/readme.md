@@ -1,4 +1,13 @@
 # Final Thesis Flight Computer
+
+-EEPROM
+
+-BMP280
+
+-MPU6050
+
+*STM32F103C8T6
+
 At this project our main goal is scanning a area with using rocket.
 
 For more detail please visit https://github.com/burakatalay06/final_thesis
