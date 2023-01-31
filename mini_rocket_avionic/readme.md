@@ -1,6 +1,9 @@
 -EEPROM
+
 -MPU6050
+
 -BMP280
+
 *ATMEGA328P
 
 **At this project, out main goal is beginner model rocketeer.
